@@ -11,7 +11,7 @@ This is a school website design
 * JavaScript
 
 ## Live link
-https://github.com/fahadhaya72.
+https://educate-view.vercel.app/.
 
 ## Support and contact details
 
